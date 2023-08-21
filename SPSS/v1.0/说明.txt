@@ -1,4 +1,0 @@
-v1.0
-
-提供HTMT区分效度分析
-提供Bootstrap分析
