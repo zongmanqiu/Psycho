@@ -1,6 +1,6 @@
 # Psycho: 用于心理科学的SPSS宏   
 # Psycho: SPSS macro for psychological science 
-*Copyright (C) 2022-2023 by Qiu Zongman    
+*Copyright (C) 2022-2024 by Qiu Zongman    
 *License: Apache 2.0    
 *E-mail: qiuzongman@foxmail.com    
 *Research Gate: Zongman Qiu    
@@ -9,6 +9,9 @@
 *项目托管在Github: https://github.com/zongmanqiu/psycho   
     
 # 更新日志       
+## [1.2.1] - 2024-05-29    
+### 修复    
+*不同版本SPSS在代码读取时的格式错误    
 ## [1.2.0] - 2023-8-23    
 ### 增加    
 *项目分析中的其它内容    
